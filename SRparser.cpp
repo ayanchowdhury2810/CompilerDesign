@@ -1,3 +1,4 @@
+//  Write a C Program to implement a SR parser.
 #include<stdio.h> 
 #include<stdlib.h> 
 #include<string.h>
